@@ -12,9 +12,9 @@ IT support, and web-based environments.
 
 ## 🚀 What I'm working on
 - Building portfolio projects in Python and web development
-- Completing my BIT at Crown Institute (June 2026)
+- Completing my BIT at Crown Institute of Higher Education (June 2026)
 - Starting my MIT from September 2026
 
 ## 📫 Connect
-- LinkedIn: linkedin.com/in/yogesh-dhakal
+- LinkedIn: linkedin.com/in/dhakal-yogesh
 - Email: myselfyogesh1533@gmail.com
