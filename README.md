@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yogesh Dhakal 👋
 
-<!--
-**Yogesh1533/Yogesh1533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Bachelor of IT student based in Sydney, Australia.
+Currently interning at Digipearl — working across CRM systems, 
+IT support, and web-based environments.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **IT Support:** Troubleshooting, HESK ticketing, hardware/software support
+- **Web & CRM:** WordPress, website deployment
+- **Languages:** Python, JavaScript, SQL (building actively)
+- **Tools:** Git, VS Code, Microsoft 365 Admin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Building portfolio projects in Python and web development
+- Completing my BIT at Crown Institute (June 2026)
+- Starting my MIT from September 2026
+
+## 📫 Connect
+- LinkedIn: linkedin.com/in/yogesh-dhakal
+- Email: myselfyogesh1533@gmail.com
